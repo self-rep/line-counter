@@ -1,0 +1,1 @@
+go build -o ./bin/lncount.exe main.go
